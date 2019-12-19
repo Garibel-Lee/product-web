@@ -1,2 +1,3 @@
 # product-web
-��һ���ύ���ֵ list JDBC������ѯ
+第一次提交完成值 list JDBC基础查询
+测试fetch
